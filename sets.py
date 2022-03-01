@@ -11,3 +11,5 @@ s.add(5)
 #s.remove(3)
 print(s)
 
+#len or numbers of sequencce in the set
+print(f"The set has {len(s)} elemnts.")
