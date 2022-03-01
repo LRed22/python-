@@ -1,4 +1,5 @@
 houses = {"Harry": "Gryffindor", "Draco": "Slytherin"}
 
-houses["Harry"]
+#for mapping use dictionary tools
+houses["Harry"] = "Lugray"
 print(houses["Harry"])
